@@ -47,7 +47,7 @@ Start the server
 npm start
 
 Open browser and visit
-http://localhost:3000
+http://localhost:8000
 
 Learning Outcomes
 Hands-on experience with Node.js & Express
@@ -55,3 +55,8 @@ Building REST APIs
 MongoDB schema design
 Full-stack application workflow
 Git & GitHub usage
+
+## 📸 Screenshots
+![AllListing Page](screenshots/alllistings.png)  
+![NewListing Page](screenshots/newlisting.png)  
+![Details Page](screenshots/details.png)
