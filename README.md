@@ -2,61 +2,39 @@
 
 Wanderlust is a full-stack web application inspired by Airbnb, allowing users to explore, list, and review travel accommodations.
 
----
-
 ## 🚀 Features
-- User Authentication & Authorization (Login / Signup)
-- Create, Update, Delete property listings
+
+- User Authentication (Login / Signup)
+- Create, Update, Delete listings
 - Add reviews and ratings
-- Secure RESTful APIs
-- CRUD operations
+- RESTful APIs
 - Responsive UI
 
----
-
 ## 🛠️ Tech Stack
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
 
----
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub
 
-## 📂 Project Structure
-wanderlust/
-│── models/
-│── routes/
-│── controllers/
-│── views/
-│── public/
-│── app.js
-│── package.json
+## 📂 Screenshots
 
-
----
-
-## ⚙️ Installation & Setup
-1. Clone the repository  
-```bash
-git clone https://github.com/ShreyashManatkar/Wanderlust.git
-
-Install dependencies
-npm install
-
-Start the server
-npm start
-
-Open browser and visit
-http://localhost:8000
-
-Learning Outcomes
-Hands-on experience with Node.js & Express
-Building REST APIs
-MongoDB schema design
-Full-stack application workflow
-Git & GitHub usage
-
-## 📸 Screenshots
-![AllListing Page](screenshots/alllistings.png)  
-![NewListing Page](screenshots/newlisting.png)  
+![All Listings](screenshots/alllistings.png)
 ![Details Page](screenshots/details.png)
+![New Listing](screenshots/newlisting.png)
+
+## ⚙️ How to Run Project
+
+1. Install dependencies  
+   npm install
+
+2. Start server  
+   node app.js
+
+3. Open browser  
+   http://localhost:3000
+
+## 👤 Author
+
+Shreyash Manatkar  
+GitHub: https://github.com/ShreyashManatkar
