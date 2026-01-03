@@ -32,7 +32,7 @@ Wanderlust is a full-stack web application inspired by Airbnb, allowing users to
    node app.js
 
 3. Open browser  
-   http://localhost:3000
+   http://localhost:8000
 
 ## 👤 Author
 
